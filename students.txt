@@ -1,0 +1,14 @@
+Jathin kumar, 21, cse
+Manaswini, 20, cse - ai
+Sreenivasulu, 20, cse - ai
+pushpalatha, 19, cse
+naveen, 17, cse-ai & ml
+raghava, 22, civil
+vijaya, 19, ece
+narasimha, 21, ece
+ramu, 19, mech
+laksh, 16, eee
+naresh, 19, ece
+mounika, 19, cse
+manoj, 16, eee
+suresh, 18, cse - ai
