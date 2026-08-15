@@ -12,3 +12,9 @@ naresh, 19, ece
 mounika, 19, cse
 manoj, 16, eee
 suresh, 18, cse - ai
+namo, 18, cse
+sunil kumar, 21, cse
+ganesh, 20, cse - ai
+ambani, 22, csehemanth, 20, cse
+raju, 21, cse - ai
+ganesh kumar, 22, ece

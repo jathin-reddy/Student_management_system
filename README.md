@@ -25,7 +25,6 @@ A console-based Student Management System developed in Python. It allows users t
 - students.txt
 
 ## How to Run
-
 ```bash
 python main.py
 ```

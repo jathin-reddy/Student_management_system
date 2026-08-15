@@ -3,7 +3,9 @@ students = []
 try:
     with open("students.txt","r") as file:
         for line in file:
-            name, age, branch = line.strip().split(",") 
+            name = line.strip().split(",")[0]
+            age = line.strip().split(",")[1]
+            branch = line.strip().split(",")[2]
             student = {
                 "name" : name,
                 "age" : int(age),

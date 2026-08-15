@@ -22,7 +22,7 @@ while True:
     elif choice == "4":
         delete_student()
     elif choice == "5":
-        print("Thank you for using the Student Management System.")
+        print(" [' Thank you for using the Student Management System. '] ")
         break
     else:
         print("Invalid choice given!")
